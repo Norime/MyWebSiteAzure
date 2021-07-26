@@ -1,0 +1,27 @@
+﻿.container{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.navbar{
+    background-color: blue;
+}
+
+.button {
+    background-color: #03A0F1;
+    border: solid 1px black;
+    width: 150px;
+    border-radius: 50px;
+    height: 40px;
+    color: white;
+    cursor: pointer;
+    display: block;
+}
+
+.navButtonLog {
+    display: flex;
+}
+
+.nav-link{
+    text-align: center;
+}
